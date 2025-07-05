@@ -23,3 +23,6 @@
 > Average Case : O(nlogn)
 >
 > Worst Case : O(nlogn)
+
+### Output
+![Screenshot 2025-07-05 at 12 17 51 pm](https://github.com/user-attachments/assets/16aee433-3aa7-49f7-b6e7-c4537f32d2a7)
